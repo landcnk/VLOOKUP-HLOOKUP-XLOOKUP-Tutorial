@@ -7,6 +7,7 @@
 
 ⚡️ XLOOKUP: สูตรใหม่ล่าสุดจาก Microsoft ที่รวมความสามารถของ VLOOKUP และ HLOOKUP ไว้ในที่เดียว  
 
+
 เพิ่มเติม  
 
 1.แก้ไข Error #N/A ด้วยสูตร IFERROR  
@@ -14,6 +15,9 @@
 2.VLOOKUP + MATCH  
 
 3.ใช้งานร่วมกับ Conditional Formatting  
+
+เอกสารประกอบด้วยไฟล์ Excel 3 File  
+
 
 โดยใน Workbook จะมีทั้งหมด 4 Worksheets  
 
