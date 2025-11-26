@@ -16,7 +16,6 @@
 
 3.ใช้งานร่วมกับ Conditional Formatting  
 
-เอกสารประกอบด้วยไฟล์ Excel 3 File  
 
 
 โดยใน Workbook จะมีทั้งหมด 4 Worksheets  
