@@ -10,6 +10,7 @@
 เพิ่มเติม
 1.แก้ไข Error #N/A ด้วยสูตร IFERROR
 2.VLOOKUP + MATCH
+3.ใช้งานร่วมกับ Conditional Formatting
 
 โดยใน Workbook จะมีทั้งหมด 4 Worksheets
 -> 9EXPERT ORDERS เก็บข้อมูลของ orders เช่น order วันที่เท่าไหร่ ลูกค้ารหัสอะไร
